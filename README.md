@@ -82,6 +82,7 @@ python test.py
 ```bash
 Ouaf !
 Miaou !
+Meuh !
 Ouaf !
 ```
 
@@ -96,9 +97,18 @@ Triangle – aire : 6.00
 ### ▶️ Exercice 3 — Paiements
 
 ```bash
-Paiement Carte Bancaire de 45.50€ validé (Finissant par ****8888)
-Paiement PayPal de 12.00€ envoyé à client@example.com
-Paiement Crypto de 0.05 sur réseau ETH (Wallet: 0xABC123DEADBEEF)
+Test montant négatif
+.Test Carte Bancaire
+Paiement Carte Bancaire de 100.00€ validé (Finissant par ****5678)
+.Test Crypto
+Paiement Crypto de 2.50 sur réseau BTC (Wallet: WALLET_ID)
+.Test PayPal
+Paiement PayPal de 50.00€ envoyé à test@test.com
+.
+----------------------------------------------------------------------
+Ran 4 tests in 0.010s
+
+OK
 ```
 
 ---
@@ -124,7 +134,9 @@ TP4_Python_OOP/
 ## 🙌 Auteur
 
 **Mahmoud Moukouch** — 2333447 — [m.moukouch2471@uca.ac.ma](mailto:m.moukouch2471@uca.ac.ma)
+
 GitHub : **M4ds1ck**
+
 Projet : **TP4 – Polymorphisme & Classes Abstraites**
 
 ---
