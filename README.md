@@ -132,11 +132,10 @@ TP4_Python_OOP/
 ---
 
 ## 🙌 Auteur
+**Nom :** Mahmoud Moukouch - 2333447 - [m.moukouch2471@uca.ac.ma](mailto:m.moukouch2471@uca.ac.ma) 
 
-**Mahmoud Moukouch** — 2333447 — [m.moukouch2471@uca.ac.ma](mailto:m.moukouch2471@uca.ac.ma)
+**GitHub :** [M4ds1ck](https://github.com/M4ds1ck)
 
-GitHub : **M4ds1ck**
-
-Projet : **TP4 – Polymorphisme & Classes Abstraites**
+**Projet :** TP4 – Polymorphisme & Classes Abstraites
 
 ---
