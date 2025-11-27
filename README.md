@@ -69,11 +69,8 @@ cd TP4_Python_OOP/EXERCICE3
 ### 3. Lancer les scripts
 
 ```bash
-# Exécution principale
-python paiements.py
-
-# Scripts de test
-python test_paiements.py
+cd EXERCICE1 // EXERCICE 2 & EXERCICE 3
+python test.py
 ```
 
 ---
