@@ -113,21 +113,14 @@ Paiement Crypto de 0.05 sur réseau ETH (Wallet: 0xABC123DEADBEEF)
 ```
 TP4_Python_OOP/
 ├── EXERCICE1/
-│   ├── animal.py
-│   ├── robot.py
-│   └── test_animaux.py
+│   ├── animaux.py
+│   └── test.py
 ├── EXERCICE2/
-│   ├── forme.py
-│   ├── cercle.py
-│   ├── rectangle.py
-│   ├── triangle.py
-│   └── test_formes.py
+│   ├── formes.py
+│   └── test.py
 ├── EXERCICE3/
-│   ├── paiement.py
-│   ├── carte.py
-│   ├── paypal.py
-│   ├── crypto.py
-│   └── test_paiements.py
+│   ├── paiements.py
+│   └── test.py
 └── README.md
 ```
 
@@ -138,28 +131,5 @@ TP4_Python_OOP/
 **Mahmoud Moukouch** — 2333447 — [m.moukouch2471@uca.ac.ma](mailto:m.moukouch2471@uca.ac.ma)
 GitHub : **M4ds1ck**
 Projet : **TP4 – Polymorphisme & Classes Abstraites**
-
----
-
-## 📄 Licence
-
-Projet distribué sous licence **MIT**.
-
----
-
-## ⭐ Contribuer
-
-Les contributions, suggestions ou améliorations sont les bienvenues !
-N'hésitez pas à ouvrir :
-
-* une *issue*,
-* un *pull request*,
-* ou à proposer des extensions.
-
----
-
-## 💬 Feedback
-
-Si vous avez des questions, remarques ou envies d'amélioration du TP : je suis à l'écoute ! 🔥
 
 ---
