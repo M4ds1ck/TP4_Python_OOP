@@ -1,8 +1,6 @@
 # 🌟 TP4 Python POO – Polymorphisme & Classes Abstraites
 
 [![Python Version](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
-[![Status](https://img.shields.io/badge/Status-Completed-brightgreen)]()
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 [![Made With Love](https://img.shields.io/badge/Made%20with-Love-red.svg)]()
 
 Bienvenue dans le dépôt du **TP4 de Programmation Orientée Objet en Python**, un ensemble d'exercices orientés vers le **polymorphisme**, les **classes abstraites**, et la manipulation de **collections d’objets hétérogènes**.
